@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35506.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeBreakerSolver", "CodeBreakerSolver\CodeBreakerSolver.csproj", "{DB88053D-1908-4A6B-A0B5-F48D7300143E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeBreakerSolver.Tests", "CodeBreakerSolver.Tests\CodeBreakerSolver.Tests.csproj", "{8340960A-DEDE-4054-B384-1D3E31388E70}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB88053D-1908-4A6B-A0B5-F48D7300143E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB88053D-1908-4A6B-A0B5-F48D7300143E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB88053D-1908-4A6B-A0B5-F48D7300143E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB88053D-1908-4A6B-A0B5-F48D7300143E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8340960A-DEDE-4054-B384-1D3E31388E70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8340960A-DEDE-4054-B384-1D3E31388E70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8340960A-DEDE-4054-B384-1D3E31388E70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8340960A-DEDE-4054-B384-1D3E31388E70}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
